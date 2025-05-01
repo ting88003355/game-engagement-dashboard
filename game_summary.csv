@@ -1,0 +1,11 @@
+game_id,game_name,game_type,duration_minutes,avg_retention,in_game_currency_spent
+MPG_1,MultiPlayerGame_1,multiplayer,3075,0.45098039215686275,122530
+MPG_2,MultiPlayerGame_2,multiplayer,2605,0.6063829787234043,108548
+MPG_3,MultiPlayerGame_3,multiplayer,2957,0.5294117647058824,131484
+MPG_4,MultiPlayerGame_4,multiplayer,3277,0.42391304347826086,125847
+MPG_5,MultiPlayerGame_5,multiplayer,3274,0.5188679245283019,134457
+SPG_1,SinglePlayerGame_1,singleplayer,2669,0.5,121006
+SPG_2,SinglePlayerGame_2,singleplayer,3177,0.5188679245283019,122624
+SPG_3,SinglePlayerGame_3,singleplayer,3256,0.4897959183673469,125684
+SPG_4,SinglePlayerGame_4,singleplayer,2767,0.524390243902439,111364
+SPG_5,SinglePlayerGame_5,singleplayer,4377,0.5079365079365079,149944
