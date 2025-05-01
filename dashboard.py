@@ -96,7 +96,4 @@ st.plotly_chart(fig6, use_container_width=True)
 st.caption("Built for publisher-level insight into game performance, engagement, and investment strategy.")
 """
 
-with open(dashboard_code_path, "w") as f:
-    f.write(dashboard_code)
-
 dashboard_code_path
