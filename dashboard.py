@@ -1,7 +1,3 @@
-# Rewriting the file to ensure it exists and is accessible
-dashboard_code_path = "/mnt/data/dashboard.py"
-
-dashboard_code = """
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -94,6 +90,3 @@ fig6 = px.box(
 st.plotly_chart(fig6, use_container_width=True)
 
 st.caption("Built for publisher-level insight into game performance, engagement, and investment strategy.")
-"""
-
-dashboard_code_path
