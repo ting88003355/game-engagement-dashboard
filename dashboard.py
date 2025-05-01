@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly.graph_objects as px
+#import plotly.express as px
 
 # Load datasets
 game_df = pd.read_csv("game_summary.csv")
